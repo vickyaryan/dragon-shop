@@ -1,0 +1,205 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.countContainer {
+  align-items: center;
+  display: flex;
+  margin-top: 20px;
+}
+
+.cardNumber {
+  position: absolute;
+  top: 13px;
+  left: 8px;
+  color: #fff;
+  font-size: 14px;
+}
+
+.cardContainer1 {
+  display: flex;
+  align-items: baseline;
+}
+
+.cartPrice {
+  margin: 0px 10px;
+  font-size: 16px;
+  color: #918888;
+}
+
+.cardContainer {
+  position: relative;
+  text-align: center;
+}
+
+.cardSize {
+  font-size: 35px;
+  color: #2c3749;
+}
+
+.countButton {
+  border: 1px solid;
+  padding: 0px 10px;
+  font-size: 24px;
+  background: #e0dcdc;
+}
+
+.addToCard {
+  border: 0px;
+  background: #c56565;
+  color: #fff;
+  padding: 10px 11px;
+  margin: 0px 21px;
+}
+
+.card-img-size {
+  height: 60px;
+  width: 60px !important;
+}
+
+.checkOut {
+  background: #D26E4B;
+  color: #fff !important;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 11px 20%;
+  margin: 0px 10px;
+}
+
+.letestImg {
+  height: 50px;
+  width: 50px !important;
+}
+
+.input-container {
+  display: grid;
+}
+
+.textLeft {
+  text-align: left;
+}
+
+.inputBox {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #e0dddd;
+}
+
+.textLefttable {
+  text-align: left;
+  height: 45px;
+}
+
+.textRighttable {
+  text-align: right;
+  height: 45px;
+}
+
+.borderBottom {
+  border-bottom: 2px solid #dbdada;
+  margin: 10px 0px;
+}
+
+.borderBottom1 {
+  border-bottom: 1px solid #dbdada;
+  margin: 10px 0px;
+}
+
+.color-black {
+  color: #000;
+}
+
+.color-gray {
+  background-color: #777777;
+  color: #fff;
+}
+
+.fa-sharp {
+  color: yellow;
+}
+
+.alignItem {
+  align-items: baseline;
+}
+
+.call {
+  background: #446084;
+  color: #fff;
+  font-size: 14px;
+  padding: 5px 14px;
+  border-radius: 20px;
+}
+
+.headerLevel {
+  height: 30px;
+  background-color: #446084;
+}
+
+.containerImg {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centeredImg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  color: #000;
+  background: white;
+}
+.centeredImg:hover{
+  background: #000;
+  color: #ffff
+}
+
+.catImg {
+  width: -webkit-fill-available;
+}
+span{
+  color:#777777
+}
+.textLeft{
+  text-align: left;
+}
+.secondPrice{
+  text-decoration: line-through;
+}
