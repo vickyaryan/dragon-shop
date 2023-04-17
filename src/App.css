@@ -1,10 +1,35 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
-
+*{
+  text-align: left;
+}
+.reviewBorder{
+  border: 3px solid #123d56;
+}
+.reviewButton{
+  padding: 10px 20px;
+    border: 1px solid #081734;
+    font-size: 20px;
+}
+.reviewInput{
+  width: 40vw !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+a{
+  text-decoration: none;
+}
+
+.hide {
+  display: none;
+}
+    
+.myDIV:hover + .hide {
+  display: block;
+  color: red;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -12,7 +37,33 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.width-max{
+  width: 250px;
+  position: relative;
+}
+.levelShow{
+  display: none;
+}
+.cancleProduct{
+  top: 15px;
+  position: relative;
+}
+/* .width-max:hover .levelShow{
+  position: relative;
+    top: 105px;
+    z-index: 99;
+  display: block;
+  height: 46px;
+  background: red;
+} */
+a{
+  width: auto;
+  display: block;
+  text-align: center;
+  margin-bottom: 11px;
+    color: #181919 !important;
+    text-decoration: none;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -77,15 +128,25 @@
   border: 1px solid;
   padding: 0px 10px;
   font-size: 24px;
-  background: #e0dcdc;
+  background: #f9f9f9;
+  padding: 19px;
+  border: 1px solid #e0d2d2;
 }
-
+.countButton-left{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.countButton-right{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
 .addToCard {
+  padding: 19px;
   border: 0px;
   background: #c56565;
   color: #fff;
-  padding: 10px 11px;
   margin: 0px 21px;
+  border-radius: 10px;
 }
 
 .card-img-size {
@@ -202,4 +263,9 @@ span{
 }
 .secondPrice{
   text-decoration: line-through;
+}
+.horizental{
+  width: 1px;
+  height: 100px;
+  background-color: #8b8383;
 }

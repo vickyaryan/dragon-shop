@@ -3,9 +3,8 @@ export const initialProduct =  () =>{
     return async function(dispatch, getState) {
         // const response = await fetch('https://fakestoreapi.com/products')
         // const json = await response.json();
-        console.log('hhhhhhhhhhhhhhh1111',data);
         dispatch({
-            type: 'ADDITEM',
+            type: 'ADDALLITEM',
             payload: data
         })
     }

@@ -1,1000 +1,981 @@
- [
+[
     {
-        "dragon": [
-            {
-                "id": 1,
-                "title": "Dragon Professional Individual 15.61 English",
-                "price": 109.95,
-                "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61English.jpg",
-                "rating": {
-                    "rate": 3.9,
-                    "count": 120
-                }
-            },
-            {
-                "id": 2,
-                "title": "Dragon Home 15-English",
-                "price": 22.3,
-                "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.1,
-                    "count": 259
-                }
-            },
-            {
-                "id": 3,
-                "title": "Dragon Professional Individual 15.61 Spanish",
-                "price": 55.99,
-                "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61Spanish.jpg",
-                "rating": {
-                    "rate": 4.7,
-                    "count": 500
-                }
-            },
-            {
-                "id": 4,
-                "title": "Dragon Professional Individual 15.61 French",
-                "price": 15.99,
-                "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61French.jpg",
-                "rating": {
-                    "rate": 2.1,
-                    "count": 430
-                }
-            },
-            {
-                "id": 5,
-                "title": "Dragon Legal Individual 15.61",
-                "price": 695,
-                "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonLegalIndividual15.61.jpg",
-                "rating": {
-                    "rate": 4.6,
-                    "count": 400
-                }
-            },
-            {
-                "id": 6,
-                "title": "Dragon Medical Practice Edition 4.3",
-                "price": 168,
-                "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonMedicalPracticeEdition4.3.jpg",
-                "rating": {
-                    "rate": 3.9,
-                    "count": 70
-                }
-            },
-            {
-                "id": 7,
-                "title": "Dragon Medical Practice Edition Upgrade 4.3",
-                "price": 9.99,
-                "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonMedicalPracticeEditionUpgrade4.3.jpg",
-                "rating": {
-                    "rate": 3,
-                    "count": 400
-                }
-            },
-            {
-                "id": 8,
-                "title": "Dragon Professional Upgrade 15.61",
-                "price": 10.99,
-                "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalUpgrade15.61.jpg",
-                "rating": {
-                    "rate": 1.9,
-                    "count": 100
-                }
-            },
-            {
-                "id": 9,
-                "title": "Dragon Professional Individual For Mac 6.0",
-                "price": 64,
-                "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividualForMac6.0.jpg",
-                "rating": {
-                    "rate": 3.3,
-                    "count": 203
-                }
-            },
-            {
-                "id": 10,
-                "title": "Dragon Professional Individual 15 German",
-                "price": 109,
-                "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15German.jpg",
-                "rating": {
-                    "rate": 2.9,
-                    "count": 470
-                }
-            },
-            {
-                "id": 11,
-                "title": "Dragon Home 15-English",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 12,
-                "title": "desktop",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "Desktop",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 13,
-                "title": "Laptop",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "laptop",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "Tablets",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Batteries",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "batteries",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Hard Drives",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Keyboard & Mouse",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Keyboard & Mouse",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Memory Cards",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "USB Flash Drives",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "USB Flash Drives",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            }
-        ],
-        "desktop": [
-            {
-                "id": 1,
-                "title": "Dragon Professional Individual 15.61 English",
-                "price": 109.95,
-                "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61English.jpg",
-                "rating": {
-                    "rate": 3.9,
-                    "count": 120
-                }
-            },
-            {
-                "id": 2,
-                "title": "Dragon Home 15-English",
-                "price": 22.3,
-                "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.1,
-                    "count": 259
-                }
-            },
-            {
-                "id": 3,
-                "title": "Dragon Professional Individual 15.61 Spanish",
-                "price": 55.99,
-                "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61Spanish.jpg",
-                "rating": {
-                    "rate": 4.7,
-                    "count": 500
-                }
-            },
-            {
-                "id": 4,
-                "title": "Dragon Professional Individual 15.61 French",
-                "price": 15.99,
-                "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61French.jpg",
-                "rating": {
-                    "rate": 2.1,
-                    "count": 430
-                }
-            },
-            {
-                "id": 5,
-                "title": "Dragon Legal Individual 15.61",
-                "price": 695,
-                "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonLegalIndividual15.61.jpg",
-                "rating": {
-                    "rate": 4.6,
-                    "count": 400
-                }
-            },
-            {
-                "id": 6,
-                "title": "Dragon Medical Practice Edition 4.3",
-                "price": 168,
-                "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonMedicalPracticeEdition4.3.jpg",
-                "rating": {
-                    "rate": 3.9,
-                    "count": 70
-                }
-            },
-            {
-                "id": 7,
-                "title": "Dragon Medical Practice Edition Upgrade 4.3",
-                "price": 9.99,
-                "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonMedicalPracticeEditionUpgrade4.3.jpg",
-                "rating": {
-                    "rate": 3,
-                    "count": 400
-                }
-            },
-            {
-                "id": 8,
-                "title": "Dragon Professional Upgrade 15.61",
-                "price": 10.99,
-                "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalUpgrade15.61.jpg",
-                "rating": {
-                    "rate": 1.9,
-                    "count": 100
-                }
-            },
-            {
-                "id": 9,
-                "title": "Dragon Professional Individual For Mac 6.0",
-                "price": 64,
-                "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividualForMac6.0.jpg",
-                "rating": {
-                    "rate": 3.3,
-                    "count": 203
-                }
-            },
-            {
-                "id": 10,
-                "title": "Dragon Professional Individual 15 German",
-                "price": 109,
-                "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15German.jpg",
-                "rating": {
-                    "rate": 2.9,
-                    "count": 470
-                }
-            },
-            {
-                "id": 11,
-                "title": "Dragon Home 15-English",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 12,
-                "title": "desktop",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "Desktop",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 13,
-                "title": "Laptop",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "laptop",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "Tablets",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Batteries",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "batteries",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Hard Drives",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Keyboard & Mouse",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Keyboard & Mouse",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Memory Cards",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "USB Flash Drives",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "USB Flash Drives",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            }
-        ],
-        "laptop": [
-            {
-                "id": 1,
-                "title": "Dragon Professional Individual 15.61 English",
-                "price": 109.95,
-                "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61English.jpg",
-                "rating": {
-                    "rate": 3.9,
-                    "count": 120
-                }
-            },
-            {
-                "id": 2,
-                "title": "Dragon Home 15-English",
-                "price": 22.3,
-                "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.1,
-                    "count": 259
-                }
-            },
-            {
-                "id": 3,
-                "title": "Dragon Professional Individual 15.61 Spanish",
-                "price": 55.99,
-                "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61Spanish.jpg",
-                "rating": {
-                    "rate": 4.7,
-                    "count": 500
-                }
-            },
-            {
-                "id": 4,
-                "title": "Dragon Professional Individual 15.61 French",
-                "price": 15.99,
-                "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61French.jpg",
-                "rating": {
-                    "rate": 2.1,
-                    "count": 430
-                }
-            },
-            {
-                "id": 5,
-                "title": "Dragon Legal Individual 15.61",
-                "price": 695,
-                "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonLegalIndividual15.61.jpg",
-                "rating": {
-                    "rate": 4.6,
-                    "count": 400
-                }
-            },
-            {
-                "id": 6,
-                "title": "Dragon Medical Practice Edition 4.3",
-                "price": 168,
-                "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonMedicalPracticeEdition4.3.jpg",
-                "rating": {
-                    "rate": 3.9,
-                    "count": 70
-                }
-            },
-            {
-                "id": 7,
-                "title": "Dragon Medical Practice Edition Upgrade 4.3",
-                "price": 9.99,
-                "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonMedicalPracticeEditionUpgrade4.3.jpg",
-                "rating": {
-                    "rate": 3,
-                    "count": 400
-                }
-            },
-            {
-                "id": 8,
-                "title": "Dragon Professional Upgrade 15.61",
-                "price": 10.99,
-                "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalUpgrade15.61.jpg",
-                "rating": {
-                    "rate": 1.9,
-                    "count": 100
-                }
-            },
-            {
-                "id": 9,
-                "title": "Dragon Professional Individual For Mac 6.0",
-                "price": 64,
-                "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividualForMac6.0.jpg",
-                "rating": {
-                    "rate": 3.3,
-                    "count": 203
-                }
-            },
-            {
-                "id": 10,
-                "title": "Dragon Professional Individual 15 German",
-                "price": 109,
-                "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15German.jpg",
-                "rating": {
-                    "rate": 2.9,
-                    "count": 470
-                }
-            },
-            {
-                "id": 11,
-                "title": "Dragon Home 15-English",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 12,
-                "title": "desktop",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "Desktop",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 13,
-                "title": "Laptop",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "laptop",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "Tablets",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Batteries",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "batteries",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Hard Drives",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Keyboard & Mouse",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Keyboard & Mouse",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Memory Cards",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "USB Flash Drives",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "USB Flash Drives",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            }
-        ],
-        "tablets":[
-            {
-                "id": 1,
-                "title": "Dragon Professional Individual 15.61 English",
-                "price": 109.95,
-                "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61English.jpg",
-                "rating": {
-                    "rate": 3.9,
-                    "count": 120
-                }
-            },
-            {
-                "id": 2,
-                "title": "Dragon Home 15-English",
-                "price": 22.3,
-                "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.1,
-                    "count": 259
-                }
-            },
-            {
-                "id": 3,
-                "title": "Dragon Professional Individual 15.61 Spanish",
-                "price": 55.99,
-                "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61Spanish.jpg",
-                "rating": {
-                    "rate": 4.7,
-                    "count": 500
-                }
-            },
-            {
-                "id": 4,
-                "title": "Dragon Professional Individual 15.61 French",
-                "price": 15.99,
-                "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15.61French.jpg",
-                "rating": {
-                    "rate": 2.1,
-                    "count": 430
-                }
-            },
-            {
-                "id": 5,
-                "title": "Dragon Legal Individual 15.61",
-                "price": 695,
-                "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonLegalIndividual15.61.jpg",
-                "rating": {
-                    "rate": 4.6,
-                    "count": 400
-                }
-            },
-            {
-                "id": 6,
-                "title": "Dragon Medical Practice Edition 4.3",
-                "price": 168,
-                "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonMedicalPracticeEdition4.3.jpg",
-                "rating": {
-                    "rate": 3.9,
-                    "count": 70
-                }
-            },
-            {
-                "id": 7,
-                "title": "Dragon Medical Practice Edition Upgrade 4.3",
-                "price": 9.99,
-                "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonMedicalPracticeEditionUpgrade4.3.jpg",
-                "rating": {
-                    "rate": 3,
-                    "count": 400
-                }
-            },
-            {
-                "id": 8,
-                "title": "Dragon Professional Upgrade 15.61",
-                "price": 10.99,
-                "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalUpgrade15.61.jpg",
-                "rating": {
-                    "rate": 1.9,
-                    "count": 100
-                }
-            },
-            {
-                "id": 9,
-                "title": "Dragon Professional Individual For Mac 6.0",
-                "price": 64,
-                "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividualForMac6.0.jpg",
-                "rating": {
-                    "rate": 3.3,
-                    "count": 203
-                }
-            },
-            {
-                "id": 10,
-                "title": "Dragon Professional Individual 15 German",
-                "price": 109,
-                "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonProfessionalIndividual15German.jpg",
-                "rating": {
-                    "rate": 2.9,
-                    "count": 470
-                }
-            },
-            {
-                "id": 11,
-                "title": "Dragon Home 15-English",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "software",
-                "subcategory": "dragon",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 12,
-                "title": "desktop",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "Desktop",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 13,
-                "title": "Laptop",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "laptop",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "pc & laptops",
-                "subcategory": "Tablets",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Batteries",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "batteries",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Hard Drives",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Keyboard & Mouse",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Keyboard & Mouse",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "Tablets",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "Memory Cards",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            },
-            {
-                "id": 14,
-                "title": "USB Flash Drives",
-                "price": 109,
-                "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-                "category": "accessories",
-                "subcategory": "USB Flash Drives",
-                "image": "DragonHome15-English.jpg",
-                "rating": {
-                    "rate": 4.8,
-                    "count": 319
-                }
-            }
-        ]
+        "id": 1,
+        "title": "Dragon Professional Individual 15.61 English",
+        "price": 109.95,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "software",
+        "subcategory": "dragon",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Dragon Home 15-English",
+        "price": 22.3,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "software",
+        "subcategory": "dragon",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Dragon Professional Individual 15.61 Spanish",
+        "price": 55.99,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "software",
+        "subcategory": "dragon",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Dragon Professional Individual 15.61 French",
+        "price": 15.99,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "software",
+        "subcategory": "dragon",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "Dragon Legal Individual 15.61",
+        "price": 695,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "category": "software",
+        "subcategory": "dragon",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Dragon Medical Practice Edition 4.3",
+        "price": 168,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+        "category": "software",
+        "subcategory": "dragon",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "Dragon Medical Practice Edition Upgrade 4.3",
+        "price": 9.99,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+        "category": "software",
+        "subcategory": "dragon",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "Dragon Professional Upgrade 15.61",
+        "price": 10.99,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+        "category": "software",
+        "subcategory": "dragon",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "Dragon Professional Individual For Mac 6.0",
+        "price": 64,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+        "category": "software",
+        "subcategory": "dragon",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "Dragon Professional Individual 15 German",
+        "price": 109,
+        "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+        "category": "software",
+        "subcategory": "dragon",
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "Dragon Home 15-English",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "software",
+        "subcategory": "dragon",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "desktop",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc & laptops",
+        "subcategory": "desktop",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 13,
+        "title": "Laptop",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc & laptops",
+        "subcategory": "laptop",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 14,
+        "title": "Tablets",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc & laptops",
+        "subcategory": "Tablets",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 15,
+        "title": "Batteries",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "batteries",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 16,
+        "title": "Tablets",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Hard Drives",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 17,
+        "title": "Keyboard & Mouse",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Keyboard & Mouse",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 18,
+        "title": "Tablets",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Memory Cards",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 19,
+        "title": "USB Flash Drives",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "USB Flash Drives",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 20,
+        "title": "Batteries",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "batteries",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 21,
+        "title": "desktop",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc/laptop",
+        "subcategory": "desktop",
+        "image": "desktop/desktop1.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 22,
+        "title": "(Renewed) Lenovo ThinkCenter AIO Desktop Set (Intel i5 4thGen/8GB/1TB HDD/19 inches HD Monitor+Keyboard+Mouse+Tiny CPU+FHD Webcam+Mic+Speakers+Wifi/Windows 10 Pro/MS Office/Black)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc/laptop",
+        "subcategory": "desktop",
+        "image": "img/desktop/612CyMLlFlL._SL1280_.jpg",
+        "rating": {
+            "rate": 17,
+            "count": 319
+        }
+    },
+    {
+        "id": 23,
+        "title": "Office Desktop Computer",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "Asd Computers offers an extensive range of hardware, software and integrated IT solutions to address enterprise requirements in office",
+        "category": "pc/laptop",
+        "subcategory": "desktop",
+        "image": "img/desktop/Office-Desktop-Computer.jpg",
+        "rating": {
+            "rate": 27500,
+            "count": 319
+        }
+    },
+    {
+        "id": 24,
+        "title": "12th Gen Intel® Core™ i5-12500T (18 MB cache, 6 cores, 12 threads, 2.00 GHz to 4.40 GHz Turbo, 35 W)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc/laptop",
+        "subcategory": "desktop",
+        "image": "img/desktop/download.jpg",
+        "rating": {
+            "rate": 86665.84,
+            "count": 319
+        }
+    },
+    {
+        "id": 25,
+        "title": "Gandiva Desktop Computer PC (Core i5 1st Generation CPU / 8GB DDR3 RAM / 500HB HDD/USB Keyboard & Mouse/WiFi) Pre Installed Windows 10 Professional (Trail Version)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc/laptop",
+        "subcategory": "desktop",
+        "image": "img/desktop/811A5xhCQtL._SL1500_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 26,
+        "title": "ENTWINO Intel Core i5 (8 GB DDR3/500 GB/120 GB SSD/Windows 10 Home/512 MB/18.5 Inch Screen/ENTAIC-I5-650-8GB_500-120-18.5LED) with MS Office  (Black)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc/laptop",
+        "subcategory": "desktop",
+        "image": "img/desktop/fusion-it-system-assembld-original-imagms4g5knkkgw3.jpg",
+        "rating": {
+            "rate": 16499,
+            "count": 319
+        }
+    },
+    {
+        "id": 27,
+        "title": "Assembled Intel Core 2 Duo (4 GB DDR3/500 GB/Windows 7 Ultimate/512 MB/15.6 Inch Screen/C2D/500/4GB)  (Multicolor)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc/laptop",
+        "subcategory": "desktop",
+        "image": "img/desktop/c2d-500-4gb-assembled-original-imafz7g8rzedcfwz.jpg",
+        "rating": {
+            "rate": 9599,
+            "count": 319
+        }
+    },
+    {
+        "id": 28,
+        "title": "APPLE iMac Core i5 (5th Gen) (8 GB DDR3/1 TB/Mac OS X Sierra/21.5 Inch Screen/MK482HN/A)  (White, 450 mm x 528 mm x 175 mm, 5.68 kg)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc/laptop",
+        "subcategory": "desktop",
+        "image": "laptop/desktop1.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 28,
+        "title": "Assembled Intel Core i3 (4 GB DDR3/500 GB/Windows 10 Pro/15.1 Inch Screen/ASZI35004GB)  (Black)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc/laptop",
+        "subcategory": "desktop",
+        "image": "img/desktop/assembled-aszi35004gb-original-imafm3vqsyku9ken.jpg",
+        "rating": {
+            "rate": 11555,
+            "count": 319
+        }
+    },
+    {
+        "id": 29,
+        "title": "ZOONIS Budget Gaming Desktop for Fire Fire & GTA with 2GB Graphics Card Core i5 (8 GB DDR3/500 GB/128 GB SSD/Windows 10 Pro/8 GB/19 Inch Screen/Budget Gaming Desktop) with MS Office  (Black)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "pc/laptop",
+        "subcategory": "desktop",
+        "image": "img/desktop/budget-gaming-desktop-zoonis-original-imaghs8ze5favwrk.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 30,
+        "title": "Tablets",
+        "price": 109,
+        "shotDisc" :"With an all-metal body, active pen and ultramodern design, the Lenovo Tab M10 FHD Plus (2nd Gen) stands outs from the crowd.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "tablets",
+        "image": "img/tab/downlord.jpg",
+        "rating": {
+            "rate": 18999,
+            "count": 319
+        }
+    },
+    {
+        "id": 31,
+        "title": "Portable entertainment tablet that's great for students, too",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "tablets",
+        "image": "img/tab/Tab-M10-Plus-Gen-3.jpg",
+        "rating": {
+            "rate": 18999,
+            "count": 319
+        }
+    },
+    {
+        "id": 32,
+        "title": "Premium Android tablet featuring an 27.94cms (11) 2K display for immersive multimedia",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "tablets",
+        "image": "img/tab/Tab-M10-Plus-Gen-3.jpg",
+        "rating": {
+            "rate": 26499,
+            "count": 319
+        }
+    },
+    {
+        "id": 33,
+        "title": "Lenovo Tab K10 26.16 cm (10.3 inch) Tablet 4 GB RAM, 64 GB, Abyss Blue, TB-X6C6X(492573487)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "tablets",
+        "image": "img/tab/Lenovo-Tab-K10-Tablets-492573487-i-7-1200Wx1200H.jpg",
+        "rating": {
+            "rate": 18499.00,
+            "count": 319
+        }
+    },
+    {
+        "id": 34,
+        "title": "The Samsung Galaxy Tab A 10.1 2019 is a decent device loaded with some quality features. It has a good configuration and a decent battery that makes it a perfect entertainer.",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "tablets",
+        "image": "img/tab/132984-v4-samsung-galaxy-tab-a-10.1-2019-tablet-large-1.jpg",
+        "rating": {
+            "rate": 14999,
+            "count": 319
+        }
+    },
+    {
+        "id": 35,
+        "title": "Lenovo Tab M7 (3rd Gen) with its spectacular functionalities and a long-lasting battery will help you play and stream for 12 hours non-stop. ",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "tablets",
+        "image": "img/tab/145397-v1-lenovo-tab-m7-(3rd-gen)-tablet-large-1.jpg",
+        "rating": {
+            "rate":6999,
+            "count": 319
+        }
+    },
+    {
+        "id": 36,
+        "title": "Tablets",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "tablets",
+        "image": "img/tab/MO_01_PCD_Curation-Card_Main-KV_720x1080.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 37,
+        "title": "Tablets",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "tablets",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 38,
+        "title": "Tablets",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "tablets",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 39,
+        "title": "Tablets",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "tablets",
+        "image": "img/Dragon_Store_Dragon_Home_15.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+        
+    },
+    {
+        "id": 40,
+        "title": "Lenovo IdeaPad Slim 3 Intel Celeron N4020 15.6 inches HD Business Laptop (4GB/256GB SSD/Windows 10 Home/Platinum Grey/1.7Kg), 81WQ003LIN",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "laptop",
+        "image": "img/labtop/61Dw5Z8LzJL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+        
+        
+    },
+    {
+        "id": 41,
+        "title": "Lenovo V15 Intel Celeron N4020 15.6 inches HD Laptop (4GB/256GB SSD/Windows 11/Ms-Office/Platinum Grey/1.7Kg)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "laptop",
+        "image": "img/labtop/51U8ge1jSEL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+        
+        
+    },
+    {
+        "id": 42,
+        "title": "Acer Predator Helios 16 Gaming Laptop Intel Core i7 13700HX(Windows 11 Home/32 GB RAM/1 TB SSD/NVIDIA® GeForce RTX™ 4070) PH16-71, WQXGA Display, Abyssal Black, 2.6 KG",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "laptop",
+        "image": "img/laptop/1_12_nh.qjrsi.001.jpg",
+        "rating": {
+            "rate": 4.8232999,
+            "count": 319
+        }
+        
+        
+    },
+    {
+        "id": 43,
+        "title": "ASUS ROG Strix G17, 17.3-inch (43.94 cms) FHD 144Hz, AMD Ryzen 7 4800H, RTX 3050 Ti 4GB Graphics, Gaming Laptop (16GB/1TB SSD/Windows 11//Gray/2.4 kg), G713IE-HX040W",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "laptop",
+        "image": "img/laptop/41ZN0vVuyUL._SY300_SX300_QL70_FMwebp_.jpg",
+        "rating": {
+            "rate": 85990,
+            "count": 319
+        }
+        
+        
+    },
+    {
+        "id": 44,
+        "title": "Processor: AMD Ryzen 9 6900HX Mobile Processor (8-core/16-thread, 20MB cache, up to 4.9 GHz max boost)",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "laptop",
+        "image": "img/laptop/Dragon_Store_Dragon_Home_1571JFMDI0tOL._SX679_.jpg",
+        "rating": {
+            "rate": 391990,
+            "count": 319
+        }
+        
+        
+    },
+    {
+        "id": 45,
+        "title": "Playing your favorite PC games with settings maxed out doesn't mean you need a big desktop rig. We've got a top-rated gaming laptop for every type of user, based on our in-depth, testing-based reviews.",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "laptop",
+        "image": "img/laptop/062R61ZPiU7AKMJ0V8Hxuuz-2.fit_lim.size_840x473.v1647978549.jpg",
+        "rating": {
+            "rate": "1,839.00",
+            "count": 319
+        }
+        
+        
+    },
+    {
+        "id": 46,
+        "title": "Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life",
+        "price": 109,
+        "shotDisc" :"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "laptop",
+        "image": "img/laptop/03cPA23KFtjMJ190vHIoQEn-1.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 47,
+        "title": "HP Victus Gaming Latest AMD Ryzen 5 5600H Processor 16.1 inch(40.9 cm) FHD Gaming Laptop (8GB RAM/512GB SSD/4GB Radeon RX5500M Graphics/B&O/Backlit KB/Win 11/MS Office/Xbox Game Pass),16-E0162ax",
+        "price": 53990,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "laptop",
+        "image": "img/laptop/81wJJj6jLfL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 48,
+        "title": "nVidia pci_e Quadro T400 4GB GDDR6 RAM 64-Bit Graphics Card 384 CUDA Cores with Three Mini DisplayPort 1.4 connectors, DirectX 12",
+        "price": 11999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/download.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 49,
+        "title": "Colorful GeForce GT 1030 4GB DDR4 RAM GDDR4 Pci_e Graphics Card with Single Fan ( GT1030 4G-V ) Can Play Most of AAA Game Titles 64 bit 1152 Mhz Clock Speed GTA V Can be Played 3 Years Warranty",
+        "price": 8221,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/41WlU+952hL.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 50,
+        "title": "ASUS Phoenix AMD Radeon™ RX 550 Graphics Card (PCIe 3.0, 4GB GDDR5 Memory, HDMI, DisplayPort, DVI-D, IP5X, Dual Ball Fan Bearings, Auto-Extreme)",
+        "price": 9800,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/816CtcoE8zL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 51,
+        "title": "AMD RX580 8G pci_e_x16 Graphics Card, 6 Pin 8GB GDDR5 Graphics Card with Dual, HDMI, DP, PCI for Computer Gaming Video Editing/ Ethereum and Other Cryptocurrency Mining Card",
+        "price": 53990,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/31hswEzkT2L.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 52,
+        "title": "These cards are Graphic Card, which are used to generate and display the output images and are known for high performance and accurate functioning.",
+        "price": 2250,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/graphic-card-500x500.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id":53,
+        "title": "An external GPU, otherwise known as an eGPU, is a relatively new concept that can help laptop users achieve desktop-quality graphics by connecting an external hardware dock",
+        "price": 53990,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/how-to-set-up-external-gpu-hero1551667948223.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 54,
+        "title": "Original New NVIDIA GeForce G-Force GTX 1060 GTX1060 GDDR5 6GB Graphics Video Card Upgrade for MSI Dell Clevo Gaming Laptop PC N17E-G1-A1 MXM 3.0B VGA Board Replacement Repair Parts",
+        "price": 53990,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/51L7sQgALrL.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 55,
+        "title": "ASUS Prime H510M-Emicroatx Motherboard Lga1200 for 11Th & 10Th Gen Processor Ddr4",
+        "price": 6787,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/713es1ZFweL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 56,
+        "title": "ASUS TUF Gaming GeForce RTX 4090 Edition Gaming Graphics Card (pci_e_x16, 24GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a) TUF-RTX4090-24G-GAMING",
+        "price": 230199,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/51ZTzLC67tL._SX300_SY300_QL70_FMwebp_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 57,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 58,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Internal Hard Drive",
+        "image": "img/Internal Hard Drive/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 59,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Internal Hard Drive",
+        "image": "img/Internal Hard Drive /716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 57,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Internal Hard Drive",
+        "image": "img/Graphics Card/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 57,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 57,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 57,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 57,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 57,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 57,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 57,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
+    },
+    {
+        "id": 57,
+        "title": "Galax GeForce RTX® 4090 SG (1-Click OC Feature) 24GB GDDR6X 384-bit DP*3/HDMI 2.1-49NXM5MD6DSG",
+        "price": 185999,
+        "shotDisc" :"Lenovo’s all-AMD Legion 7 Gen 7 gaming laptop combines excellent performance, helpful features, and long battery life.",
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "accessories",
+        "subcategory": "Graphics Card",
+        "image": "img/Graphics Card/716xtthvBjL._SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }        
     }
 ]

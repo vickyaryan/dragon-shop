@@ -8,19 +8,19 @@ function ProductCat() {
     const id = useParams()
     var count = 0
     const [category, setCatgory] = useState()
-    const [setStateProduct, getSetStateProduct ] = useState([])
-    const { dragon} = useSelector((state) => state?.product[0][0])
-    const state = useSelector((state) => state?.product[0][0])
+    const [setStateProduct, getSetStateProduct] = useState([])
+    // const { dragon } = useSelector((state) => state?.product)
+    const state = useSelector((state) => state?.product)
     const dispatch = useDispatch()
-    const datafilter3 = dragon?.filter((e) => e.title.toLowerCase() == id.id.toLowerCase())
+    // const datafilter3 = dragon?.filter((e) => e.title.toLowerCase() == id.id.toLowerCase())
     const propertyNames = Object.keys(state);
 
-const findTrue =    propertyNames.find((item,index)=>{
-    if(item == id?.id?.toLowerCase()){
-        count = index
-    }
-})
-    useState(()=>{getSetStateProduct(state)},[state])
+    const findTrue = propertyNames.find((item, index) => {
+        if (item == id?.id?.toLowerCase()) {
+            count = index
+        }
+    })
+    useState(() => { getSetStateProduct(state) }, [state])
     const accessories = ["batteries", "Hard Drives", "Keyboard & Mouse", "Memory Cards", "USB Flash Drives"]
     const computer = ["Graphics Card", "Internal Hard Drive", "Ram"]
     const pc = ["Desktop", "Laptop", "Tablets"]
@@ -50,10 +50,10 @@ const findTrue =    propertyNames.find((item,index)=>{
                     <div className="container">
                         <div className="row">
                             <p className='textLeft my-4'><span>Home / </span> {id.id}</p>
-                            {datafilter3?.map((item, i) => {
+                            {/* {datafilter3?.map((item, i) => {
                                 return (
                                     <div className="col-sm-3 col-md-4 col-sm-6" key={i}>
-                                        <NavLink to={`/product/${item.id}`} style={{ color: '#414141', textDecoration: 'none' }} >
+                                        <NavLink to={`/product/${item.id}`} style={{ color: '#414141', textDecoration: 'none' }} className='myDIV'>
                                             <div className="card h-80 text-center">
                                                 <div className="card-body">
                                                     <div className="card text-bg-dark border-0">
@@ -61,13 +61,13 @@ const findTrue =    propertyNames.find((item,index)=>{
                                                     </div>
                                                     <p className="card-title text-muted text-capitalize">{item?.title}</p>
                                                     <p className="card-text fw-bold"><span className='secondPrice'>${item.price + (item.price * 0.2)}</span>   $ {item.price?.toFixed(2)}</p>
-                                                    <NavLink to={`/product/${item.id}`} className="btn btn-outline-dark">Buy</NavLink>
+                                                    <NavLink to={`/product/${item.id}`} className="btn btn-outline-dark hide">Buy</NavLink>
                                                 </div>
                                             </div>
                                         </NavLink>
                                     </div>
                                 )
-                            })}
+                            })} */}
                         </div>
 
                     </div>

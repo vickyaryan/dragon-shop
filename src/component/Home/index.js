@@ -9,9 +9,9 @@ function Home(props) {
     return (
         <>
             <Slider />
-            <h2 className='py-5'>Best Selling Product</h2>
+            <h2 className='py-5 text-center'>Best Selling Product</h2>
             <Product />
-            <h2 className='py-5'>Browse Our Categories</h2>
+            <h2 className='py-5 text-center'>Browse Our Categories</h2>
             <div className="container">
                 <div className="row">
                     {categories?.map((e, i) => {
@@ -19,7 +19,7 @@ function Home(props) {
                             <div className="col-sm-4 col-md-3 col-sm-6 my-4" key={i}>
                                 <NavLink to={`/productcat/${e}`}>
                                     <div className="containerImg">
-                                        <div className="centeredImg py-3">{e}</div>
+                                        <div className="centeredImg py-3  text-center">{e}</div>
                                         <img src={require(`../../asserts/assocries.jpg`)} alt="Snow" className='catImg' />
                                     </div>
                                 </NavLink>
@@ -28,71 +28,98 @@ function Home(props) {
                     })}
                 </div>
             </div>
-            <Carousel variant="dark" style={{ background: '#8195AE', color: '#fff', paddingTop: 50, paddingBottom: 50 }}>
-                <Carousel.Item>
-                    <div className=''>
-                        <div>
-                            <i className="fa-sharp fa-solid fa-star"></i>
-                            <i className="fa-sharp fa-solid fa-star"></i>
-                            <i className="fa-sharp fa-solid fa-star"></i>
-                            <i className="fa-sharp fa-solid fa-star"></i>
-                            <i className="fa-sharp fa-solid fa-star"></i>
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col">
+                        <h3>FREE SHIPPING ON ALL ORDERS</h3>
+                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    </div>
+                    <div class="col d-flex">
+                        <div className='horizental' />
+                        <div className='px-2'>
+                            <h3>FREE SHIPPING ON ALL ORDERS</h3>
+                            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                         </div>
-                        <div>
-                            <h3>Third slide label</h3>
-                            <p>
-                                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-                            </p>
+                        <div className='horizental' />
+                    </div>
+                    <div class="col">
+                        <h3>FREE SHIPPING ON ALL ORDERS</h3>
+                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    </div>
+                </div>
+            </div>
+            <Carousel variant="dark" style={{textAlign: 'center', background: '#8195AE', color: '#fff', paddingTop: 50, paddingBottom: 50 }}>
+                <Carousel.Item>
+                    <div className=' text-center'>
+                        <>
+                            <i className="fa-sharp fa-solid fa-star"></i>
+                            <i className="fa-sharp fa-solid fa-star"></i>
+                            <i className="fa-sharp fa-solid fa-star"></i>
+                            <i className="fa-sharp fa-solid fa-star"></i>
+                            <i className="fa-sharp fa-solid fa-star"></i>
+                        </>
+                        <div className='text-center'>
+                            <h3 className='text-center'>Third slide label</h3>
+                            <p className='text-center'>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                         </div>
                     </div>
                     {/* <Carousel.Caption>
                         <h3>First slide label</h3>
                         <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                     </Carousel.Caption> */}
-                </Carousel.Item>
-                <Carousel.Item>
-                    <div className=''>
-                        <div>
+                </Carousel.Item><Carousel.Item>
+                    <div className=' text-center'>
+                        <>
                             <i className="fa-sharp fa-solid fa-star"></i>
                             <i className="fa-sharp fa-solid fa-star"></i>
                             <i className="fa-sharp fa-solid fa-star"></i>
                             <i className="fa-sharp fa-solid fa-star"></i>
                             <i className="fa-sharp fa-solid fa-star"></i>
-                        </div>
-                        <div>
-                            <h3>Third slide label</h3>
-                            <p>
-                                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-                            </p>
+                        </>
+                        <div className='text-center'>
+                            <h3 className='text-center'>Third slide label</h3>
+                            <p className='text-center'>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                         </div>
                     </div>
                     {/* <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3>First slide label</h3>
+                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                     </Carousel.Caption> */}
-                </Carousel.Item>
-                <Carousel.Item>
-                    <div className=''>
-                        <div>
+                </Carousel.Item><Carousel.Item>
+                    <div className=' text-center'>
+                        <>
                             <i className="fa-sharp fa-solid fa-star"></i>
                             <i className="fa-sharp fa-solid fa-star"></i>
                             <i className="fa-sharp fa-solid fa-star"></i>
                             <i className="fa-sharp fa-solid fa-star"></i>
                             <i className="fa-sharp fa-solid fa-star"></i>
-                        </div>
-                        <div>
-                            <h3>Third slide label</h3>
-                            <p>
-                                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-                            </p>
+                        </>
+                        <div className='text-center'>
+                            <h3 className='text-center'>Third slide label</h3>
+                            <p className='text-center'>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                         </div>
                     </div>
-
                     {/* <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>
-                            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-                        </p>
+                        <h3>First slide label</h3>
+                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item><Carousel.Item>
+                    <div className=' text-center'>
+                        <>
+                            <i className="fa-sharp fa-solid fa-star"></i>
+                            <i className="fa-sharp fa-solid fa-star"></i>
+                            <i className="fa-sharp fa-solid fa-star"></i>
+                            <i className="fa-sharp fa-solid fa-star"></i>
+                            <i className="fa-sharp fa-solid fa-star"></i>
+                        </>
+                        <div className='text-center'>
+                            <h3 className='text-center'>Third slide label</h3>
+                            <p className='text-center'>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                        </div>
+                    </div>
+                    {/* <Carousel.Caption>
+                        <h3>First slide label</h3>
+                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
             </Carousel>

@@ -11,11 +11,11 @@ import store from './redux/store';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
     <Provider store={store}>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App />
+    </BrowserRouter>
     </Provider>
-  </BrowserRouter>
 );
 
 reportWebVitals();

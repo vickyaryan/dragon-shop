@@ -59,7 +59,7 @@ console.log('statestatestatestate',id);
                             {desktop?.map((item, i) => {
                                 return (
                                     <div className="col-sm-3 col-md-4 col-sm-6" key={i}>
-                                        <NavLink to={`/product/${item.id}`} style={{ color: '#414141', textDecoration: 'none' }} >
+                                        <NavLink to={`/product/${item.id}`} style={{ color: '#414141', textDecoration: 'none' }} className='myDIV'>
                                             <div className="card h-80 text-center">
                                                 <div className="card-body">
                                                     <div className="card text-bg-dark border-0">
@@ -67,7 +67,7 @@ console.log('statestatestatestate',id);
                                                     </div>
                                                     <p className="card-title text-muted text-capitalize">{item?.title}</p>
                                                     <p className="card-text fw-bold"><span className='secondPrice'>${item.price + (item.price * 0.2)}</span>   $ {item.price?.toFixed(2)}</p>
-                                                    <NavLink to={`/product/${item.id}`} className="btn btn-outline-dark">Buy</NavLink>
+                                                    <NavLink to={`/product/${item.id}`} className="btn btn-outline-dark hide">Buy</NavLink>
                                                 </div>
                                             </div>
                                         </NavLink>

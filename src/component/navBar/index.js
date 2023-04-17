@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react'
-import { NavLink } from 'react-router-dom'
+import { NavLink, Link } from 'react-router-dom'
 import { useSelector, useDispatch } from 'react-redux'
 import { initialProduct } from '../../redux/action'
-import { Navbar, Container, Nav,NavDropdown } from 'react-bootstrap';
+import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap';
 function NavBar() {
     const dispatch = useDispatch()
     const state = useSelector((state) => state?.singleProduct)
@@ -12,14 +12,15 @@ function NavBar() {
     useEffect(() => {
         state?.map((e) => setpriceData((e?.price * e?.count) + priceData));
     }, [state])
-    const data = ["Desktop","Laptop","Tablets"]
-    const data1 = ["Graphics Card", "Internal Hard Drive","Ram"]
-    const accessories = ["Batteries","Hard Drives","Keyboard & Mouse","Memory Cards","USB Flash Drives"]
+
+    const data = ["Desktop", "Laptop", "Tablets"]
+    const data1 = ["Graphics Card", "Internal Hard Drive", "Ram"]
+    const accessories = ["Batteries", "Hard Drives", "Keyboard & Mouse", "Memory Cards", "USB Flash Drives"]
     return (
         <>
-        <div className='headerLevel'>
+            <div className='headerLevel'>
 
-        </div>
+            </div>
             <Navbar expand="md">
                 <Container>
                     <NavLink className="navbar-brand fw-bold fs-4" to="/">
@@ -29,18 +30,17 @@ function NavBar() {
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="mx-auto">
                             <NavLink className="nav-link active" to="/">Home</NavLink>
-                            <NavLink className="nav-link" to="/products">Product</NavLink>
-                            <NavDropdown title="Pc/Laptops" id="basic-nav-dropdown">
-                            <NavDropdown.Item href={`/productcat/desktop`} >Desktop</NavDropdown.Item>
-                            <NavDropdown.Item href={`/productcat/laptop`} >Laptop</NavDropdown.Item>
-                            <NavDropdown.Item href={`/productcat/tablets`} >Tablets</NavDropdown.Item>
-                                {/* {data.map((e,i)=><NavDropdown.Item href={`/productcat/${e}`} key={i}>{e}</NavDropdown.Item>)} */}
+                            <NavDropdown title="Pc/Laptops" id="basic-nav-dropdown" className='d-grid'>
+                                <Link to='/productcatogery/desktop'>Desktop </Link>
+                                <Link to={`/productcatogery/laptop`} >Laptop</Link>
+                                <Link to={`/productcatogery/tablets`} >Tablets</Link>
+                                {/* {data.map((e,i)=><Nav.Link href={`/productcat/${e}`} key={i}>{e}</Nav.Link>)} */}
                             </NavDropdown>
                             <NavDropdown title="Pc Component" id="basic-nav-dropdown">
-                                {data1.map((e,i)=><NavDropdown.Item href={`/productcat/${e}`} key={i}>{e}</NavDropdown.Item>)}
+                                {data1.map((e, i) => <Link to={`/productcatogery/${e}`} key={i}>{e}</Link>)}
                             </NavDropdown>
                             <NavDropdown title="Accessories" id="basic-nav-dropdown">
-                                {accessories.map((e,i)=><NavDropdown.Item href={`/productcat/${e}`} key={i}>{e}</NavDropdown.Item>)}
+                                {accessories.map((e, i) => <Link to={`/productcatogery/${e}`} key={i}>{e}</Link>)}
                             </NavDropdown>
                         </Nav>
                         <Nav className='alignItem'>

@@ -2,8 +2,8 @@ const addItem = []
 
 const addItems = (state = addItem, action) =>{
     switch (action.type){
-        case "ADDITEM":
-            return [...state, action.payload]
+        case "ADDALLITEM":
+            return action.payload
             break;
         
         case "DELETEITEM":
